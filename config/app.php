@@ -152,7 +152,6 @@ return [
         Spatie\Backup\BackupServiceProvider::class,
         Barryvdh\Snappy\ServiceProvider::class,
         Clockwork\Support\Laravel\ClockworkServiceProvider::class,
-        Spatie\Backup\BackupServiceProvider::class,
         Weblee\Mandrill\MandrillServiceProvider::class,
 
     ],
